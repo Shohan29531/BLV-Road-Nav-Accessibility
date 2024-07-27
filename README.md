@@ -1,2 +1,2 @@
-# BLV-Road-Nav-Accessibility
-A dataset of 21 videos, 90 accessibility-focused objects, and the ground truth labelling of all the objects in each video
+# VQA-Accessibility
+A dataset of 21 videos, 90 accessibility-focused objects (previously 79), and the ground truth labeling of all the objects in 31 video segments from the 21 videos
