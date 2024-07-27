@@ -1,0 +1,90 @@
+"Use the Other Door" Sign
+Accent Paving
+Barrier Post
+Barrier Stump
+Bench
+Bicycle
+Brick Paving
+Brick Wall
+Bridge
+Building
+Bus
+Bus Stop
+Car
+Chair
+Clear Ice
+Closed Sidewalk
+Cobblestone Paving
+Counter
+Crosswalk
+Curb
+Curved Railing
+Dog
+Doorway
+Driveway (flat)
+Elevator
+Escalator
+Fence
+Fire hydrant
+Flush Door
+Foldout Sign
+Fountain
+Gate
+Guide Dog
+Gutter
+Hose
+Intersection
+Lamp Post
+Mailbox
+Maintenance Vehicle
+Motorcycle
+Moving Walk
+Overhanging Tree Branches
+Parallel Parking Spot
+Paratransit Vehicle
+Pedestrian Crossing
+Person
+Person with a Disability
+Pillar
+Pole
+Puddle
+Push Button
+Railing
+Raised Entryway
+Retaining Wall
+Road
+Road Divider
+Road Shoulder
+Roadside Parking
+Sidewalk
+Sidewalk Pits
+Sign
+Sign Post
+Sloped Driveway
+Sloped Curb
+Snow
+Stairs
+Stop Sign
+Street Vendor
+Table
+Tactile Paving
+Toilet Sign
+Traffic Signals
+Train Platform
+Train Tracks
+Trash Bins
+Trash on Roads
+Tree
+Turnstile
+Uncontrolled Crossing
+Uneven Stairs
+Unpaved Road
+Unpaved Sidewalk
+Vegetation
+Wall
+Water Leakage
+Water Pipes
+Wet Surface
+Wheelchair
+White Cane
+Yard Waste
