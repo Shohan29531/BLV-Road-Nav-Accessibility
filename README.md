@@ -4,6 +4,7 @@ A dataset of 21 videos, 90 accessibility-focused objects (previously 79), and th
 
 ## If you find this repository useful, please cite our work:
 
+https://arxiv.org/abs/2407.16777
 <pre>
 @misc{islam2024datasetcrucialobjectrecognition,
       title={A Dataset for Crucial Object Recognition in Blind and Low-Vision Individuals' Navigation}, 
