@@ -4,7 +4,7 @@ A dataset of 21 videos, 90 accessibility-focused objects (previously 79), and th
 
 ## If you find this repository useful, please cite our paper at ASSETS'24:
 
-https://arxiv.org/abs/2407.16777
+https://dl.acm.org/doi/abs/10.1145/3663548.3688538
 <pre>
 @inproceedings{islam2024identifying,
   title={Identifying crucial objects in blind and low-vision individuals' navigation},
