@@ -2,17 +2,15 @@
 A dataset of 21 videos, 90 accessibility-focused objects (previously 79), and the ground truth labeling of all the objects in 31 video segments from the 21 videos
 
 
-## If you find this repository useful, please cite our work:
+## If you find this repository useful, please cite our paper at ASSETS'24:
 
 https://arxiv.org/abs/2407.16777
 <pre>
-@misc{islam2024dataset,
-      title={A Dataset for Crucial Object Recognition in Blind and Low-Vision Individuals' Navigation}, 
-      author={Md Touhidul Islam and Imran Kabir and Elena Ariel Pearce and Md Alimoor Reza and Syed Masum Billah},
-      year={2024},
-      eprint={2407.16777},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.16777}, 
+@inproceedings{islam2024identifying,
+  title={Identifying crucial objects in blind and low-vision individuals' navigation},
+  author={Islam, Md Touhidul and Kabir, Imran and Pearce, Elena Ariel and Reza, Md Alimoor and Billah, Syed Masum},
+  booktitle={Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility},
+  pages={1--8},
+  year={2024}
 }
 </pre>
